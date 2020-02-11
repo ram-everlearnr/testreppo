@@ -1,4 +1,5 @@
 import sys
+import os
 
 print(f'no og args: {len(sys.argv)} arguments')
 print(f'arguments list:{str(sys.argv)}')
