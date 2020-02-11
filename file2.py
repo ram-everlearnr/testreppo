@@ -14,3 +14,6 @@ print(tbl)
 hst = input('hostname')
 print(hst)
 print('not the end of file - need to add few more')
+
+
+print('\n')
