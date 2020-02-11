@@ -13,8 +13,6 @@ tbl =input('enter database')
 print(tbl)
 hst = input('hostname')
 print(hst)
-print('the end of file')
 print('\n')
-
-
+print('not the end of file - need to add few more')
 
