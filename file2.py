@@ -10,4 +10,5 @@ db =input('enter database')
 print(db)
 tbl =input('enter database')
 print(tbl)
+hst = input('hostname')
 
